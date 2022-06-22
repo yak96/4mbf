@@ -1,6 +1,7 @@
 $ apt update && apt upgrade
 
 
+
 $ termux-setup-storage  
    • Enter  
    • Ketik y Atau Pilih Izinkan
@@ -31,3 +32,9 @@ $ git pull
 
 
 $ python 4mbf.py
+
+
+
+$ PERINGATAN!!
+
+$ JANGAN DI UBAH2 DAN JANGAN DIJUAL SCRIP DARI SAYA, KALAU TERJADI APA" SAYA TIDAK BERTANGGUNG JAWAB ATAS SC INI...
